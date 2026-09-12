@@ -26,6 +26,7 @@ CONFIG_TARGET_PER_DEVICE_ROOTFS=y
 CONFIG_TARGET_ROOTFS_INITRAMFS=n
 #UA3F 依赖（iptables + nftables）
 CONFIG_PACKAGE_ipset=y
+CONFIG_PACKAGE_iptables-nft=y
 CONFIG_PACKAGE_iptables-mod-conntrack-extra=y
 CONFIG_PACKAGE_iptables-mod-extra=y
 CONFIG_PACKAGE_iptables-mod-ipopt=y

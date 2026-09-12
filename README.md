@@ -25,7 +25,7 @@
 ## 使用方法
 
 1. 把本仓库推到你自己的 GitHub（需要先登录 `gh` 或在网页上创建仓库）
-2. 打开 Actions，运行 **QCA-ALL**
+2. 打开 Actions，运行 **IPQ60XX**
 3. 编译完成后在 Releases 里下载：
    - `*zn_m2*`：兆能 M2
    - `*jdcloud_re-ss-01*`：京东云亚瑟
